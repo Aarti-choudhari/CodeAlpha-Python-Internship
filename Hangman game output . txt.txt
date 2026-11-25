@@ -1,0 +1,727 @@
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _ _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Word: p r _ _ r _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: p r o _ r _ _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Word: p r o g r _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: p r o g r a _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Congratulations! You won!
+The word was: program
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: c
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 4
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _
+Chances left: 4
+Guess a letter: y
+Correct guess!
+
+Word: p y _ _ _ _
+Chances left: 4
+Guess a letter: t
+Correct guess!
+
+Word: p y t _ _ _
+Chances left: 4
+Guess a letter: h
+Correct guess!
+
+Word: p y t h _ _
+Chances left: 4
+Guess a letter: o
+Correct guess!
+
+Word: p y t h o _
+Chances left: 4
+Guess a letter: n
+Correct guess!
+
+Congratulations! You won!
+The word was: python
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _ _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Word: p r _ _ r _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: p r o _ r _ _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Word: p r o g r _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: p r o g r a _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Congratulations! You won!
+The word was: program
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _ _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Word: p r _ _ r _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: p r o _ r _ _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Word: p r o g r _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: p r o g r a _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Congratulations! You won!
+The word was: program
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: c
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 4
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _
+Chances left: 4
+Guess a letter: y
+Correct guess!
+
+Word: p y _ _ _ _
+Chances left: 4
+Guess a letter: t
+Correct guess!
+
+Word: p y t _ _ _
+Chances left: 4
+Guess a letter: h
+Correct guess!
+
+Word: p y t h _ _
+Chances left: 4
+Guess a letter: o
+Correct guess!
+
+Word: p y t h o _
+Chances left: 4
+Guess a letter: n
+Correct guess!
+
+Congratulations! You won!
+The word was: python
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _
+Chances left: 6
+Guess a letter: 
+Please enter one letter.
+
+Word: c _ _ _ _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _
+Chances left: 6
+Guess a letter: d
+Correct guess!
+
+Word: c o d _ _ _
+Chances left: 6
+Guess a letter: i
+Correct guess!
+
+Word: c o d i _ _
+Chances left: 6
+Guess a letter: n
+Correct guess!
+
+Word: c o d i n _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Congratulations! You won!
+The word was: coding
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _ _ _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Word: c o m _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: c o m p _ _ _ _
+Chances left: 6
+Guess a letter: u
+Correct guess!
+
+Word: c o m p u _ _ _
+Chances left: 6
+Guess a letter: t
+Correct guess!
+
+Word: c o m p u t _ _
+Chances left: 6
+Guess a letter: e
+Correct guess!
+
+Word: c o m p u t e _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Congratulations! You won!
+The word was: computer
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _
+Chances left: 5
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _
+Chances left: 5
+Guess a letter: d
+Correct guess!
+
+Word: c o d _ _ _
+Chances left: 5
+Guess a letter: i
+Correct guess!
+
+Word: c o d i _ _
+Chances left: 5
+Guess a letter: n
+Correct guess!
+
+Word: c o d i n _
+Chances left: 5
+Guess a letter: g
+Correct guess!
+
+Congratulations! You won!
+The word was: coding
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _ _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Word: p r _ _ r _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: p r o _ r _ _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Word: p r o g r _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: p r o g r a _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Congratulations! You won!
+The word was: program
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _
+Chances left: 5
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _
+Chances left: 5
+Guess a letter: d
+Correct guess!
+
+Word: c o d _ _ _
+Chances left: 5
+Guess a letter: i
+Correct guess!
+
+Word: c o d i _ _
+Chances left: 5
+Guess a letter: n
+Correct guess!
+
+Word: c o d i n _
+Chances left: 5
+Guess a letter: g
+Correct guess!
+
+Congratulations! You won!
+The word was: coding
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _ _ _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Word: c o m _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: c o m p _ _ _ _
+Chances left: 6
+Guess a letter: u
+Correct guess!
+
+Word: c o m p u _ _ _
+Chances left: 6
+Guess a letter: t
+Correct guess!
+
+Word: c o m p u t _ _
+Chances left: 6
+Guess a letter: e
+Correct guess!
+
+Word: c o m p u t e _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Congratulations! You won!
+The word was: computer
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: p
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 4
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _
+Chances left: 4
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _
+Chances left: 4
+Guess a letter: d
+Correct guess!
+
+Word: c o d _ _ _
+Chances left: 4
+Guess a letter: i
+Correct guess!
+
+Word: c o d i _ _
+Chances left: 4
+Guess a letter: n
+Correct guess!
+
+Word: c o d i n _
+Chances left: 4
+Guess a letter: g
+Correct guess!
+
+Congratulations! You won!
+The word was: coding
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: c
+Correct guess!
+
+Word: c _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: c o _ _ _ _ _ _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Word: c o m _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: c o m p _ _ _ _
+Chances left: 6
+Guess a letter: u
+Correct guess!
+
+Word: c o m p u _ _ _
+Chances left: 6
+Guess a letter: t
+Correct guess!
+
+Word: c o m p u t _ _
+Chances left: 6
+Guess a letter: e
+Correct guess!
+
+Word: c o m p u t e _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Congratulations! You won!
+The word was: computer
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _
+Chances left: 5
+Guess a letter: y
+Correct guess!
+
+Word: p y _ _ _ _
+Chances left: 5
+Guess a letter: t
+Correct guess!
+
+Word: p y t _ _ _
+Chances left: 5
+Guess a letter: h
+Correct guess!
+
+Word: p y t h _ _
+Chances left: 5
+Guess a letter: o
+Correct guess!
+
+Word: p y t h o _
+Chances left: 5
+Guess a letter: n
+Correct guess!
+
+Congratulations! You won!
+The word was: python
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _ _
+Chances left: 6
+Guess a letter: r
+Correct guess!
+
+Word: p r _ _ r _ _
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Word: p r o _ r _ _
+Chances left: 6
+Guess a letter: g
+Correct guess!
+
+Word: p r o g r _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: p r o g r a _
+Chances left: 6
+Guess a letter: m
+Correct guess!
+
+Congratulations! You won!
+The word was: program
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Chances left: 5
+Guess a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _
+Chances left: 5
+Guess a letter: y
+Correct guess!
+
+Word: p y _ _ _ _
+Chances left: 5
+Guess a letter: t
+Correct guess!
+
+Word: p y t _ _ _
+Chances left: 5
+Guess a letter: h
+Correct guess!
+
+Word: p y t h _ _
+Chances left: 5
+Guess a letter: o
+Correct guess!
+
+Word: p y t h o _
+Chances left: 5
+Guess a letter: n
+Correct guess!
+
+Congratulations! You won!
+The word was: python
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\AARTI\AppData\Local\Programs\Python\Python312\python.exe' 'c:/Users/AARTI/Hangman_Game_Task1.py'
+Welcome to Hangman Game!
+Guess the hidden word.
+You have 6 chances.
+
+Word: _ _ _ _ _ _
+Chances left: 6
+Guess a letter: l
+Correct guess!
+
+Word: l _ _ _ _ _
+Chances left: 6
+Guess a letter: a
+Correct guess!
+
+Word: l a _ _ _ _
+Chances left: 6
+Guess a letter: p
+Correct guess!
+
+Word: l a p _ _ p
+Chances left: 6
+Guess a letter: t
+Correct guess!
+
+Word: l a p t _ p
+Chances left: 6
+Guess a letter: o
+Correct guess!
+
+Congratulations! You won!
+The word was: laptop
+Thanks for playing!
+PS C:\Users\AARTI\AppData\Local\Programs\Microsoft VS Code> 
