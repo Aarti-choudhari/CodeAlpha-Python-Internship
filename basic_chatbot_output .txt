@@ -1,0 +1,24 @@
+Welcome to Basic Chatbot!
+
+What is your name? Aarti
+Hello Aarti
+I am your Chatbot.
+You can ask me simple questions.
+
+You: hello
+Chatbot: Hello! How are you?
+
+You: how are you
+Chatbot: I am fine. Thank you!
+
+You: what is your name
+Chatbot: I am Basic Chatbot.
+
+You: what is python
+Chatbot: Python is a programming language.
+
+You: what is computer
+Chatbot: Computer is an electronic device.
+
+You: exit
+Chatbot: Goodbye! Have a nice day.
