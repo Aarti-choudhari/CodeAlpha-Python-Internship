@@ -25,7 +25,7 @@ while True:
     elif question == "what is computer":
         print("Chatbot: Computer is an electronic device.")
 
-    elif question == "bye":
+    elif question in ["bye", "exit"]:
         print("Chatbot: Goodbye! Have a nice day.")
         break
 
